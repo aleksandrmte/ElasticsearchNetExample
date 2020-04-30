@@ -1,0 +1,9 @@
+/.vs
+/DomainModel/obj
+/DomainModel/bin
+/ElasticDomain/obj
+/ElasticDomain/bin
+/ElasticNetLibrary/obj
+/ElasticNetLibrary/bin
+/ElasticsearchNetConsole/bin
+/ElasticsearchNetConsole/obj
